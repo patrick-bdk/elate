@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jagadeesh"
+  given-names: "Akshay"
+- family-names: "Wong"
+  given-names: "Kitty"
+- family-names: "Kang"
+  given-names: "Jiyeon"
+- family-names: "O'Neill"
+  given-names: "Stephen"
+- family-names: "Hutchings"
+  given-names: "Andrew"
+- family-names: "Yeung"
+  given-names: "Joyce"
+- family-names: "Charlton"
+  given-names: "Paul"
+- family-names: "Keedwell"
+  given-names: "Roland"
+- family-names: "Mouton"
+  given-names: "Ronelle"
+- family-names: "Grieve"
+  given-names: "Richard"
+- family-names: "Hinchliffe"
+  given-names: "Robert"
+- family-names: "Bidulka"
+  given-names: "Patrick"
+title: "Protocol for the Evaluation of Local Anaesthesia in the endovascular repair of ruptured abdominal aortic aneurysms: a Target trial and Economic evaluation (ELATE) study"
+version: 3.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-04-08
+url: "https://github.com/patrick-bdk/elate"

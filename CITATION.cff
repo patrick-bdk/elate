@@ -27,6 +27,6 @@ authors:
   given-names: "Patrick"
 title: "Protocol for the Evaluation of Local Anaesthesia in the endovascular repair of ruptured abdominal aortic aneurysms: a Target trial and Economic evaluation (ELATE) study"
 version: 3.0.0
-doi: 10.5281/zenodo.1234
+doi: https://doi.org/10.5281/zenodo.19738598
 date-released: 2026-04-08
 url: "https://github.com/patrick-bdk/elate"

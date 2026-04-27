@@ -5,4 +5,6 @@ Protocol for the ELATE Study: Evaluation of Local Anaesthesia in the endovascula
 
 This protocol outlines the study design and analyses the ELATE study team will undertake to evaluate the clinical and cost-effectiveness of local vs general anaesthetic used during endovascular repair for people hospitalised with ruptured abdominal aortic aneurysm (rAAA). 
 
+This project is funded by the National Institute for Health and Care Research (NIHR) under its Research for Patient Benefit (RfPB) Programme (Grant Reference Number NIHR206893). The views expressed are those of the authors and not necessarily those of the NIHR or the Department of Health and Social Care.
+
 [Download the Full ELATE Study Protocol (PDF)](./ELATE_Study_Protocol.pdf)
